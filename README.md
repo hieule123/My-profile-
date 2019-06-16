@@ -16,9 +16,9 @@ As many jobs require, communicative and interpersonal skill are a must. For this
 Currently, I have no qulaifications or relavent experience to the above, but I a general idea of what the Unity 3d engine does and what is use for and i have no experience in using it. 
 To obtain this role i must gain exprience relevant to this role such as C# programming and Unity Enging Development. In order to gain these required experiences, i must follow through the completion of Bachelor of I.T and and further develop my knowlegde in many different I.T field. In hope of gaining traction, in my spare time research VRT Technologies to expse myself to this field for this role. 
  
-Test Results 
+#Test Results 
  
-Myers-Briggs Indicator test results:
+##Myers-Briggs Indicator test results:
 I learnt that my personality trait ISTJ charaistic makes up 9% of the population. Upon analyzing the results I've feel these Myers Briggs results really protray myself and what my values are. I was suprise how accurate and precise this test was in terms of who I am and makes me a hard working indiviual. According to results I am a dedicated and resposible, efficient, systematic, organized and reliable. These chararistic can benefit in a team enviroment centered around team work and collaborating. ISTJ are very organize and dedicated which is a essential to a succesful working enviroment in a team. 
 
 
