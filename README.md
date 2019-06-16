@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 # My background  
 My name is Hieu, student number is s3660832. I am Vietnamese currently 21 years old working part-time in warehousing. I speak 2 languages Vietnamese and English fluently, my favourite hobbies are playing Pc games and working on Japanese cars, I also have German shepherd as my companion pet, her name is Rexy and she is lovely. 
 
