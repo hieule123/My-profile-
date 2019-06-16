@@ -53,5 +53,8 @@ My ideal job is to become a game developer/programmer as I love gaming and would
 
 As many jobs require, communicative and interpersonal skill are a must. For this role it advantageous to have background  experience in Unity engine development. In terms of tertiary qualifications, prgramming or equivalent industry is benneficial requirement. The main experience requirement is C# programming experience working with digital art assets (models, textures, images, audio).
 Currently, I have no qulaifications or relavent experience to the above, but I a general idea of what the Unity 3d engine does and what is use for and i have no experience in using it. 
+To obtain this role i must gain exprience relevant to this role such as C# programming and Unity Enging Development. In order to gain these required experiences, i must follow through the completion of Bachelor of I.T and and further develop my knowlegde in many different I.T field. In hope of gaining traction, in my spare time research VRT Technologies to expse myself to this field for this role. 
+
+
 
 
