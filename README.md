@@ -35,10 +35,8 @@ I want to create an app on both Android and IOS platform using the same server f
 Motivation
 The main benefit that this will provide users and drivers would be an efficient and effective use for all drivers in suburban areas. This application will ensure that congestion on main roads during peak times is more controlled. Traffic on Melbourne roads and freeways are already heavily under scrutiny and traffic detection applications would be effective for monitoring and ensuring that these popular routes are free of further traffic. By providing users with the option of avoiding these congested areas, this will support other drivers by providing different routes to avoid over populated roads and streets that have drug buses stopping cars. 
 
-Description
-
-
-
+Description 
+As you already know this app will have police nearby alerts within 5km radius when another user has pin point the location as a main feature. Another beneficial feature is having camera warnings nearby from saving you from copping a speeding fine and losing your license. By having camera detection warnings and signage’s, this will allow drivers to follow the rules accordingly to avoid losing demerit points and fines. One of our finer features that will steer us apart from the competition will be our special niche of having insiders with an ear on police radio to detect their future locations of setting up booze buses and drug buses. We will pass along this information and useful data to our team who will then utilize this data for the greater good for our drivers. Many other map based applications are very broad and don't have specific features that involve police drug bus location set ups. Another one of our very own features would be our subscription based account that focuses on user input. This can include users confirming/listing out where they see speed/red light cameras in areas that aren't shown on the map, as-well as heavy car accidents that are causing traffic. The more manual inputs that are provided, the more points users will receive. These points will be redeemable through our sponsors of Qantas points and EFTPOS gift cards. 
 
 
 
